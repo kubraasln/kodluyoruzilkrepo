@@ -30,7 +30,7 @@ yatırım çekmeyi başarmıştır.**
 
  ---
 
- ## Türkiye'De Yazlım
+ ## Türkiye'De Yazılım
 
   Yazılım geliştirme 
 süreçleri yıllar içerisinde 
