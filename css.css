@@ -1,0 +1,199 @@
+
+.buton {
+
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: rgb(0, 0, 0);
+   width: 100px;
+   height: 60px;
+   float: left;
+   background: linear-gradient(#e0df91,#eaafda); 
+   border-radius: 17px;
+    margin: 30px;
+    text-align: center;
+  }  
+
+
+  .temizle {
+
+   clear: both;
+  }
+
+  .pizza {
+  
+    width: 370px;
+    height: 380px;
+    background-color: rgb(239, 233, 192);
+    border-radius: 19px;
+    float: left;
+    margin-inline-end: 30px;
+    margin-left: 160px;
+    padding: 30px;
+    padding-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+
+   .yazı{
+
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+   }
+ .orta {
+
+   text-align: center;
+ }
+
+ .enof {
+
+
+   margin-left: 760px;
+ }
+.bas {
+   margin-left: 39px;
+   margin-top: 0px;  
+   font-size: 50px;
+
+
+}
+
+.bas2 {
+  margin-left: 700px;
+  font-size: 50px;
+
+}
+
+.ciz{
+
+margin-top: 160px;
+
+
+}
+
+.pizza2 {
+
+text-align: center;
+font-size: larger;
+font-family: fantasy;
+color: white;
+font-weight: bold;
+background: linear-gradient(#e0df91,#eaafda); 
+
+}
+
+.kk{
+
+
+}
+
+
+a.button::before {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-box-shadow: #959595 0 2px 5px;
+  -moz-box-shadow: #959595 0 2px 5px;
+  border-radius: 3px;
+  box-shadow: #a39d9d 0 2px 5px;
+  content: "";
+  display: block;
+  height: 100%;
+  left: 0;
+  padding: 2px 0 0;
+  position:absolute;
+  top: 0;
+  width: 100%; }
+  
+a.button:active::before { padding: 1px 0 0; }
+
+/**
+* Grey
+*/
+a.button {
+  -moz-box-shadow: inset 0 0 0 1px #63ad0d;
+  -webkit-box-shadow: inset 0 0 0 1px #63ad0d;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  background: #d9dbcf;
+  border: solid 2px #d0d0d0;
+  border-bottom: solid 3px #b2b1b1;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0 1px #f5f5f5;
+  color: #555;
+  display: inline-block;
+  font: bold 16px ;
+  font-family: cursive;
+  margin: 0 25px 25px 0;
+  margin-left: 35px;
+  padding: 10px 20px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #fafafa; }
+  
+a.button:hover {
+  background: linear-gradient(#e7e0a3, #e490cf);
+  border: solid 1px #fbfcfc;
+  border-bottom: solid 3px #b2b1b1;
+  box-shadow: inset 0 0 0 1px #48cbb1; }
+  
+a.button:active {
+ 
+  background: linear-gradient(#bcad75, #6e7bdf);
+  border: solid 1px #959595;
+  box-shadow: inset 0 10px 15px 0 #c4c4c4;
+  top:2px;}
+
+
+
+
+  .basa {
+
+  margin-left: 780px;
+  margin-top: 70px;
+
+
+  }
+
+
+/* Variables
+$dark: #282828;
+$pink: #fc2161;
+$pink-d: darken($pink, 15%);
+$green: #77BD42;
+$green-d: darken($green, 15%); */
+
+
+/* "compass/css3"; url(https://fonts.googleapis.com/css?family=Montserrat:400);  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* <h1 class="font-effect-neon">Neon Effect</h1>
+  <h1 class="font-effect-outline">Outline Effect</h1>
+  <h1 class="font-effect-emboss">Emboss Effect</h1>
+  <h1 class="font-effect-shadow-multiple">Multiple Shadow Effect</h1> */
